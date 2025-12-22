@@ -34,7 +34,7 @@
                     "idna-3.11-py3-none-any.whl",
                     "python_dotenv-1.2.1-py3-none-any.whl",
                     "starlette",
-                    "uvicorn-0.38.0-py3-none-any.whl",
+                    "uvicorn-0.39.0-py3-none-any.whl",
                     "anyio",
                     "mcp-simple-auth-client",
                     "python-multipart",
