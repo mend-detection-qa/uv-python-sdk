@@ -30,7 +30,8 @@
             "direct_dependencies_names_list": {
                 "eq": [
                     "mcp-simple-tool",
-                    "certifi-2026.1.4-py3-none-any.whl",
+                    "mcp-structured-output-lowlevel",
+                    "certifi-2026.2.25-py3-none-any.whl",
                     "idna-3.11-py3-none-any.whl",
                     "python_dotenv-1.2.1-py3-none-any.whl",
                     "starlette",
